@@ -1,16 +1,62 @@
-## Hi there 👋
+# Bonjour, je suis Maxwell Akanza Konan 👋
 
-<!--
-**MaxwellAK/MaxwellAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Scientist en formation
 
-Here are some ideas to get you started:
+Je me forme actuellement à la Data Science, au Machine Learning,
+au Deep Learning et à l’intelligence artificielle avec Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mon objectif est de développer des solutions utiles aux entreprises,
+de travailler comme Data Scientist et de réaliser des missions freelance.
+
+## Compétences en cours d’acquisition
+
+- Python
+- Algorithmique
+- Git et GitHub
+- SQL
+- NumPy
+- Pandas
+- Matplotlib
+- Plotly
+- Machine Learning
+- Deep Learning
+- NLP
+- FastAPI
+- Streamlit
+- Docker
+- MLOps
+- Intelligence artificielle générative
+
+## Progression actuelle
+
+- [x] Installation de Python
+- [x] Installation de VS Code
+- [x] Installation et configuration de Git
+- [x] Variables et types
+- [x] Conditions
+- [x] Boucles `for` et `while`
+- [ ] Chaînes de caractères
+- [ ] Listes et dictionnaires
+- [ ] Fonctions
+- [ ] Programmation orientée objet
+- [ ] Analyse de données
+- [ ] Machine Learning
+- [ ] Deep Learning
+- [ ] Déploiement
+
+## Portfolio
+
+Mon portfolio comprendra progressivement des projets de :
+
+- développement Python ;
+- analyse de données ;
+- Machine Learning ;
+- Deep Learning ;
+- traitement automatique du langage ;
+- intelligence artificielle générative ;
+- MLOps ;
+- automatisation métier.
+
+## Contact
+
+- GitHub : `MaxwellAK`
