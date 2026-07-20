@@ -1,9 +1,6 @@
 # Bonjour, je suis Maxwell Akanza Konan 👋
 
-## Data Scientist en formation
-
-Je me forme actuellement à la Data Science, au Machine Learning,
-au Deep Learning et à l’intelligence artificielle avec Python.
+## Data Scientist
 
 Mon objectif est de développer des solutions utiles aux entreprises,
 de travailler comme Data Scientist et de réaliser des missions freelance.
